@@ -1,0 +1,52 @@
+[
+    {
+        "Club_name": "Hackathon",
+        "Club_detail": "The coconut is a versatile fruit from the coconut palm tree. Its parts are used widely: the water is hydrating, the milk is creamy, the flesh is edible, and the shell can be crafted into various items. Rich in nutrients, coconuts are integral to many cuisines and cultures.",
+        "Form_link":"https://alanport.netlify.app",
+        "images": 
+        {
+            "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Mq101BJcTH0_Ca5F-0lbHqjZ9-6bFy6r4Q&s",
+            "img2": "https://hub.laboratoria.la/hubfs/beneficios-hackathon-1.png"
+        }
+    },
+    {
+        "Club_name": "Music",
+        "Club_detail": "The coconut is a versatile fruit from the coconut palm tree. Its parts are used widely: the water is hydrating, the milk is creamy, the flesh is edible, and the shell can be crafted into various items. Rich in nutrients, coconuts are integral to many cuisines and cultures.",
+        "Form_link":"https://alanport.netlify.app",
+        "images": 
+        {
+            "img1": "https://images.pexels.com/photos/2034851/pexels-photo-2034851.jpeg?cs=srgb&dl=pexels-edotommo99-2034851.jpg&fm=jpg",
+            "img2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wikipedia_space_ibiza%2803%29.jpg/640px-Wikipedia_space_ibiza%2803%29.jpg"
+        }
+    },
+    {
+        "Club_name": "Startup",
+        "Club_detail": "The coconut is a versatile fruit from the coconut palm tree. Its parts are used widely: the water is hydrating, the milk is creamy, the flesh is edible, and the shell can be crafted into various items. Rich in nutrients, coconuts are integral to many cuisines and cultures.",
+        "Form_link":"https://alanport.netlify.app",
+        "images": 
+        {
+            "img1": "https://media.licdn.com/dms/image/D4D12AQFH2_qn167Dvw/article-cover_image-shrink_720_1280/0/1659935081895?e=2147483647&v=beta&t=8aFxKia8X7ppWMhiuoS1e4MlsO_nIQbRPDCQRq7e5Ss",
+            "img2": "https://cdn.sanity.io/images/tlr8oxjg/production/5d89f75fb4e6732aef0fdbe99d2215b2f456368a-1456x816.png?w=3840&q=80&fit=clip&auto=format"
+        }
+    },
+    {
+        "Club_name": "Animation",
+        "Club_detail": "The coconut is a versatile fruit from the coconut palm tree. Its parts are used widely: the water is hydrating, the milk is creamy, the flesh is edible, and the shell can be crafted into various items. Rich in nutrients, coconuts are integral to many cuisines and cultures.",
+        "Form_link":"https://alanport.netlify.app",
+        "images": 
+        {
+            "img1": "https://www.alfainfotech.co.in/images/resource/a1.jpg",
+            "img2": "https://i.graphicmama.com/blog/wp-content/uploads/2021/10/12093129/3D-Animation-Trend-Forever-Example-01.gif"
+        }
+    },
+    {
+        "Club_name": "Tamil",
+        "Club_detail": "The coconut is a versatile fruit from the coconut palm tree. Its parts are used widely: the water is hydrating, the milk is creamy, the flesh is edible, and the shell can be crafted into various items. Rich in nutrients, coconuts are integral to many cuisines and cultures.",
+        "Form_link":"https://alanport.netlify.app",
+        "images": 
+        {
+            "img1": "https://media.istockphoto.com/id/1459300331/vector/tamil-letter-forming-the-word-tamil-vector-illustration.jpg?s=612x612&w=0&k=20&c=jaXZzpEUykX6-2KKYZCOAilGfaIofet_jPyAGwIOLnA=",
+            "img2": "https://jayahindiacademy.com/wp-content/uploads/2022/11/tamil.jpg"
+        }
+    }
+]
