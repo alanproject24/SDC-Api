@@ -1,0 +1,28 @@
+{
+  "carousel": [
+    {
+      "src": "https://c4.wallpaperflare.com/wallpaper/578/919/794/3-316-16-9-aspect-ratio-s-sfw-wallpaper-preview.jpg",
+      "label": "Henosis",
+      "description": "Technical is going to be held on 14 August 2024",
+      "link": "https://getbootstrap.com/docs/5.0/getting-started/introduction/",
+      "button": "Register"
+    },
+    {
+      "src": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1702470813/evo/2023/12/GTS%20Front%20Dynamic_yrhcl4.jpg",
+      "label": "Yoga",
+      "description": "Technical is going to be held on 14 August 2024"
+    },
+    {
+      "src": "https://www.motortrend.com/uploads/2023/01/2023-McLaren-GT-9.jpg?w=768&width=768&q=75&format=webp",
+      "label": "Third slide label",
+      "description": "Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+    }
+  ],
+  "president": [
+    {
+      "name":"Yaminah A",
+      "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/7ec7fc6b561a9dcd4d9e38d40892ba9be5ab559b5bbdce433a9f22abcbfa0f13?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore adipisci, deleniti recusandae libero, blanditiis eos doloribus, quod accusantium obcaecati fuga velit ex est. Maiores, autem repudiandae dignissimos maxime vero ullam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore adipisci, deleniti recusandae libero, blanditiis eos doloribus, quod accusantium obcaecati fuga velit ex est. Maiores, autem repudiandae dignissimos maxime vero ullam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore adipisci, deleniti recusandae libero, blanditiis eos doloribus, quod accusantium obcaecati fuga velit ex est. Maiores, autem repudiandae dignissimos maxime vero ullam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore adipisci, deleniti recusandae libero, blanditiis eos doloribus, quod accusantium obcaecati fuga velit ex est. Maiores, autem repudiandae dignissimos maxime vero ullam!"
+    }
+  ]
+}
