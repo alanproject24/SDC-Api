@@ -1,4 +1,5 @@
-[
+{
+    "top": [
         {
             "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/7ec7fc6b561a9dcd4d9e38d40892ba9be5ab559b5bbdce433a9f22abcbfa0f13?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
             "Name": "Yaminah A",
@@ -23,4 +24,31 @@
             "Designation": "Join Secretary",
             "description": ""
         }
-]
+    ],
+    "executives": [
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/c14c961999df2ff424ebbe052cb084cd942a1184e1541905c634b3f16cd9a932?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Yuvan A G",
+            "Designation": "Secretary",
+            "description": ""
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/c14c961999df2ff424ebbe052cb084cd942a1184e1541905c634b3f16cd9a932?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Yuvan A G",
+            "Designation": "Secretary",
+            "description": ""
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/c14c961999df2ff424ebbe052cb084cd942a1184e1541905c634b3f16cd9a932?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Yuvan A G",
+            "Designation": "Secretary",
+            "description": ""
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/c14c961999df2ff424ebbe052cb084cd942a1184e1541905c634b3f16cd9a932?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Yuvan A G",
+            "Designation": "Secretary",
+            "description": ""
+        }
+    ]
+}
