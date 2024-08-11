@@ -4,5 +4,23 @@
             "Name": "Yaminah A",
             "Designation": "President",
             "description": ""
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/1d8cafd78a65294449c8d098c29cad39ba034b1788c0e49a959764f8db2afc24?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Anushree Srinivasan",
+            "Designation": "Vice President",
+            "description": ""
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/c14c961999df2ff424ebbe052cb084cd942a1184e1541905c634b3f16cd9a932?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Yuvan A G",
+            "Designation": "Secretary",
+            "description": ""
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/4e4ce35284d04dab5526e0bd22795bca383344e519abff944671774d9ba2a554?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Franklen Joseph A G",
+            "Designation": "Join Secretary",
+            "description": ""
         }
 ]
